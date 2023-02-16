@@ -1,0 +1,21 @@
+/* AUTHOR:AKHIL RAJ
+DATE:15/02/2023 */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    /* border: 2px solid red; */
+    background-color: rgba(222, 239, 239, 0.948);
+}
+.image {
+    width: 100%;
+    border-radius: 50px;
+}
+.logo {
+    width: 30px;
+}
+.images:hover {
+    transform: scale(1.5);
+}
